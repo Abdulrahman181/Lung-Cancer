@@ -1,0 +1,7 @@
+# Local dataset and generated model artifact
+/data.csv
+/lc.pkl
+
+# Python and Jupyter transient files
+/__pycache__/
+.ipynb_checkpoints/
